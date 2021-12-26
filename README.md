@@ -2,5 +2,5 @@
 - 🌱 I’m currently learning Software engineer 
 - 💞️ I'm 24 years old 
 - 📫 How to reach me: d.alatoum@gmail.com Or ph:00962799323250
-- I've studied Java programing language 
+- I've studied Java programing language && Java-scrpt, css, HTML 
 - I live in Amman Jordan

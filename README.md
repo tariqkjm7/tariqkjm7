@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tariq Etoum
 - 🌱 I’m currently learning Software engineer 
-- 💞️ I'm 24 years old 
+- 💞️ I'm 25 years old 
 - 📫 How to reach me: d.alatoum@gmail.com Or ph:00962799323250
-- I've studied Java programing language && Java-scrpt, css, HTML 
+- Into Java & Java-script, css, HTML, React and  node js  
 - I live in Amman Jordan
